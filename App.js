@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import GameScreen from './src/gameScreen'
+import GameScreen from './src/GameScreen'
 
 import InputScreen from './src/screens/tabs/InputScreen'
 import HistoryScreen from './src/screens/tabs/HistoryScreen'
